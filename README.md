@@ -13,6 +13,8 @@ Transforms it into analytics-ready tables
 
 Generates key business metrics for decision-making
 
+
+
 **Silver Layer – Data Cleaning & Transformation**
 
 The SILVER_HOTEL_BOOKINGS table was created with proper data types and cleaned data.

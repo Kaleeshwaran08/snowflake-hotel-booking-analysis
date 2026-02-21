@@ -1,7 +1,7 @@
 The Snowflake Hotel Booking Analysis project is an end-to-end data engineering and analytics solution built on Snowflake using a Medallion Architecture (Bronze, Silver, Gold layers).
 The goal of this project is to ingest raw hotel booking data, clean and transform it, and generate business-ready insights through KPI calculations and dashboard reporting.
 
-🎯 Project Objective
+🎯 **Project Objective**
 
 To design a scalable data pipeline in Snowflake that:
 
@@ -13,7 +13,7 @@ Transforms it into analytics-ready tables
 
 Generates key business metrics for decision-making
 
-*Silver Layer – Data Cleaning & Transformation*
+**Silver Layer – Data Cleaning & Transformation**
 
 The SILVER_HOTEL_BOOKINGS table was created with proper data types and cleaned data.
 
@@ -35,7 +35,8 @@ Converted negative amounts to positive values
 
 This layer ensures high data quality and consistency.
 
-*Gold Layer – Business Aggregations*
+
+**Gold Layer – Business Aggregations**
 
 Created analytics-ready tables:
 
@@ -79,7 +80,7 @@ Final clean dataset for KPI reporting
 
 The Gold layer supports BI dashboards and reporting.
 
-*Technical Skills Demonstrated*
+**Technical Skills Demonstrated**
 
 Snowflake Database & Warehousing
 
